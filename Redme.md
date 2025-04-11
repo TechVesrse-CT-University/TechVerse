@@ -1,4 +1,4 @@
-# EduTect - An Automated one solution for all bodies included in Education process
+# EduTech - An Automated one solution for all bodies included in Education process
 ![](/Frontend/public/image.png)
 
 ## Table of Content
